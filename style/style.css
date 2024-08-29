@@ -57,6 +57,13 @@ header, footer{
     color: floralwhite;
     font-weight: 900;
 }
+.title:before{
+    content:"'Pinturicchio' ";
+}
+
+.title:after{
+    content:" #10";
+}
 
 .hero-container{
     max-width: 800px;
